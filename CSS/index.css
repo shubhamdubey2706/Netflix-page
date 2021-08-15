@@ -1,0 +1,103 @@
+body {
+  background-image: url("netflix.png");
+}
+.div1 {
+  height: 600px;
+  width: 1340px;
+}
+.header {
+  width: 1300px;
+  height: 100px;
+  margin: 10px;
+}
+.div2 {
+  height: 370px;
+  width: 350px;
+  border: 1px solid black;
+  margin-left: 460px;
+  padding-top: 50px;
+  padding-bottom: 40px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  background-color: rgba(0, 0, 0, 0.884);
+}
+.svg-net {
+  font-size: 20px;
+  color: red;
+}
+.Netlogo {
+  width: 167px;
+  height: 44.8px;
+  font-size: 30px;
+}
+.form {
+  text-align: center;
+}
+.sign-in {
+  font-size: 40px;
+  padding-left: 59px;
+  color: cornsilk;
+}
+button {
+  margin-left: 0px;
+  background-color: red;
+  width: 218px;
+  padding: 10px;
+  border: 1px black;
+}
+.checkbox {
+  color: snow;
+  padding-right: 200px;
+}
+.span1 {
+  padding-right: 90px;
+}
+.fb {
+  color: rgba(245, 245, 245, 0.473);
+  font-size: 12px;
+  padding-right: 100px;
+}
+.heading {
+  padding-right: 50px;
+  font-size: 14px;
+}
+.link {
+  padding-right: 110px;
+  padding-left: -50px;
+  padding-right: 60px;
+  margin-left: -50px;
+  font-size: 12px;
+}
+.text {
+  font-size: 11px;
+  color: rgb(214, 213, 211);
+}
+.sub-div {
+  padding-right: 120px;
+}
+.last-div {
+  border: 1px solid white;
+  width: 200px;
+  height: 100px;
+}
+.footer {
+  color: rgba(255, 248, 220, 0.336);
+  padding-right: 120px;
+  font-size: 10px;
+}
+.footer1 {
+  color: rgba(255, 248, 220, 0.336);
+  padding-right: 120px;
+  font-size: 10px;
+  margin-left: -380px;
+}
+.footer3 {
+  color: rgba(255, 248, 220, 0.336);
+  padding-right: 10px;
+  padding-left: 40px;
+  font-size: 10px;
+  margin-left: -200px;
+}
+.drop-down {
+  margin-right: 570px;
+}
